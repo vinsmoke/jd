@@ -1,0 +1,477 @@
+.clothes{
+
+	width:1210px;
+	margin:20px auto;
+}
+.clothes_t{
+	width:1210px;
+	height:36px;
+	border-bottom: 1px solid #C81623;
+}
+.clothes_t h2{
+	padding-left: 40px;
+	font-size: 20px;
+	line-height: 36px;
+	font-weight: 400;
+	background:url(image/product_home_1.0.0.png);
+	background-repeat:no-repeat;
+	    position: relative;
+    width: 120px;
+    height:36px;
+    float: left;
+
+}
+.clothes_t span{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    font-size: 13px;
+    color: #FFF;
+    padding-left: 3px;
+}
+.clothes_t ul{
+	height: 35px;
+	float: right;
+	border: 1px solid #EDEDED;
+	border-bottom: none;
+	text-align: center;
+}
+.clothes_t ul li{ float: left;
+    position: relative;
+    display: inline;
+
+}
+.clothes_t ul li a{
+	font: 12px/35px "宋体";
+padding: 0 16px;
+display: block;
+height: 35px;
+color:#666;
+}
+.clothes_t ul li a:hover{
+	color:#C81623;
+}
+.clothes_t ul p{position: absolute;
+top: 10px;
+right: 0px;
+background: #ccc;
+width: 1px;
+height: 14px;
+} 
+.dapai{
+	position: absolute;
+	top: -2px;
+	left: 0px;
+	border-right: 1px solid #C81623;
+	border-top: 3px solid #C81623;
+	border-left: 1px solid #C81623;
+	line-height: 33px;
+	width: 24px;
+	height: 34px;
+	background: #FFF;
+}
+.nanzhuang{
+	font: 12px/35px "宋体";
+padding: 0 16px;
+display: block;
+height: 35px;
+}
+.clothes_zhong{
+	width: 1210px;
+  height: 474px;
+}
+.clothes_d{
+	width:1210px;
+	height:578px;
+}
+.clothes_dl{
+	width:330px;
+	height:474px;
+	float:left;
+}
+.clothes_dlu{
+	width:330px;
+	height:475px;
+	float:left;
+	position:relative;
+	overflow:hidden;
+}
+.clothes_dlul{
+
+	height:72px;
+	width:305px;
+	position: absolute;
+	right:0px;
+	bottom:127px;
+	padding: 10px 0 10px 25px;
+  background: rgba(255, 255, 255, 0.5);
+}
+.clothes_dlul a{
+	margin-bottom:10px;
+	color:#666;
+
+}
+#nan{
+	display:block;
+	width:67px;height:26px;
+	padding-left:31px;
+	line-height:26px;
+	font-size:14px;
+	float:left;
+
+
+}
+.nan1{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+		width:67px;height:26px;
+
+}
+.nan2{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+	background-position:0px -26px;
+		width:67px;height:26px;
+}
+.nan3{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+	background-position:0px -52px;
+}
+.nan4{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+	background-position:0px -78px;
+}
+.nan5{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+	background-position:0px -104px;
+}
+.nan6{
+	background-image:url(image/clothesicon.png);
+	background-repeat:no-repeat;
+	background-position:0px -130px;
+}
+.clothes_dlu2{
+	width:330px;
+	height:128px;
+	background:rgba(255, 255, 255, 0.7);
+	position:absolute;
+	left:0px;
+	bottom:-1px;
+}
+.word{
+	width: 330px;
+height: 122px;
+
+}
+.word li{
+	width:135px;
+	height:96px;
+	float:left;
+	padding-left:25px;
+	padding-top:7px; 
+
+}
+#color{color:#C81623;}
+.word li a{
+	color:#666;
+	display: block;
+	float: left;
+	width: 48px;
+	height: 24px;
+	margin-right: 10px;
+	line-height: 24px;
+	font-family: "宋体"
+}
+.clothes_dlu3{
+	width:328px;
+	height:156px;
+	border: 1px solid #EDEDED;
+	overflow:hidden;
+
+}
+.clothes_m1{
+	width:440px;
+	height:633px;
+	float:left;
+}
+ .clothes_m1 a{
+	display: block;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	font-size: 0;
+	float: left;
+}
+.clothes_r1{
+	width:440px;
+	height:633px;
+	float:left;
+
+}
+.clothes_r1 a{
+	display: block;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	font-size: 0;
+	float: left;
+}
+.clothes_r1 div{
+	width: 220px;
+	height: 317px;
+	font-size: 0;
+	float: left;
+	overflow: hidden;
+}
+ .clothes_r1 div a{
+	display: block;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	font-size: 0;
+	float: left;
+}
+.brands{
+	width: 1210px;
+	height: 40px;
+	background: #F7F7F7;
+	margin:10px auto;
+	padding:13px 0;
+
+}
+.baiozhi{
+	border-right: 1px dashed #CCC;
+	width: 120px;
+	height: 40px;
+	float: left;
+}
+#zuihou{
+	border:none;
+}
+.caizhuang{
+	width:1210px;
+	height:474px;
+}
+.caizhuang_l{
+	width: 210px;
+	height: 474px;
+	float: left;
+	position: relative;
+}
+.caizhuang_lp{
+	width: 200px;
+height: 92px;
+padding-left: 10px;
+background:#FBE3F8;
+position: absolute;
+left: 0px;
+bottom: 145px;
+}
+.caizhuang_lp li{
+	width:67px;
+	height:26px;
+	font-size:14px;
+	line-height:26px;
+	float:left;
+	margin:10px 0;
+	padding-left:31px;
+	background-image:url(image/cosmeticsicon.png);
+	background-repeat:no-repeat;
+}
+.caizhuang_lp a{
+	display: block;
+	overflow: hidden;
+	width: 210px;
+	height: 474px;
+	bottom:145px;
+	color:#666;
+}
+#caizhuang_lp1{
+	background-image:url(image/cosmeticsicon.png);
+	background-position:0 -26px;
+}
+#caizhuang_lp2{
+	background-image:url(image/cosmeticsicon.png);
+		background-position:0 -52px;
+}
+#caizhuang_lp3{
+	background-image:url(image/cosmeticsicon.png);
+		background-position:0 -78px;
+}
+.caizhuang_2p{
+	    width: 210px;
+    	height: 124px; 	
+    	background:#FDEEFB;
+    	position: absolute;
+    	left: 0px;
+    	bottom:0px;
+    	padding-top:21px;
+}
+.caizhuang_m{
+	    width: 340px;
+    height: 474px;
+    float: left;
+}
+.caizhuang_m a{
+	display: block;
+	overflow: hidden;
+	border-bottom: 1px solid #EDEDED;
+	border-right: 1px solid #EDEDED;
+	font-size: 0;
+}
+.caizhuang_r{
+	width: 660px;
+	height: 474px;
+	float: left;
+}
+.caizhuang_r a{
+	float: left;
+	display: block;
+	font-size: 0;
+	border-bottom: 1px solid #EDEDED;
+	border-right: 1px solid #EDEDED;
+}
+.shouji{
+	width: 330px;
+height: 475px;
+float: left;
+position: relative;
+overflow: hidden;
+}
+.clothes_mm{
+	width: 440px;
+height: 474px;
+float: left;
+}
+.clothes_mm a{
+	display: block;
+float: left;
+}
+.clothes_mm a img{
+	border:none;
+}
+.htc{
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	height:238px;
+	float:left;
+}
+.htc img{
+	border:none;
+}
+.clothes_rr{
+	width: 440px;
+height: 474px;
+float: left;
+}
+.clothes_rr1{
+	float: left;
+	width: 219px;
+	height: 117px;
+	border-right: 1px solid #EDEDED;
+	border-bottom: 1px solid #EDEDED;
+	background: red;
+	overflow: hidden;
+}
+.clothes_mo{
+	width:1210px;
+	height:578px;
+	margin:10px auto;
+}
+.shouji_l{
+	position:relative;
+	width:330px;
+	height:475px;
+	float:left;
+	overflow:hidden;
+}
+.shouji_b{
+	width:305px;
+	height:26px;
+	z-index:10;
+	position:absolute;
+	left:0px;
+	bottom:192px;
+	padding:10px 0px 10px 25px;
+	background: rgba(255, 255, 255, 0.5);
+}
+.shouji_b1{
+	width:67px;
+	height:26px;
+	font-size:14px;
+	display:block;
+		background-image:url(image/mobilesicon.png);
+color:#666;
+	background-repeat:no-repeat;
+	padding-left:31px;
+	line-height:26px;
+	float:left;
+}
+#b1{
+	background-image:url(image/mobilesicon.png);background-position:0 -26px;}
+#b2{
+	background-image:url(image/mobilesicon.png);background-position:0 -52px;}
+.shouji_c{
+	width:330px;
+	height:193px;
+	background:#ECF3E6;
+	position:absolute;
+	left:0px;
+	bottom:-1px;
+}
+.word1{
+	padding-top:21px;
+	width:330px;
+	height:48px;
+	color:#666;
+	float:left;
+}
+.word1 li{
+	width:134px;
+height:24px;
+float:left;
+padding-left:25px;
+}
+.word1 li a{
+	color:#666;
+}
+.f_1{
+	width:330px;
+	height:46px;
+	position:relative;
+	height:46px;
+	position:absolute;
+	top:0px;
+	left:0px;
+}
+.f_2{
+	float:left;
+	display:block;
+	width:145px;
+	height:26px;
+	padding:10px 0px 10px 15px;
+}
+.f_l li a{float:left;
+	float:left;
+	display:block;
+}
+.f_1_b{
+	float: left;
+	display:block;
+	width:26px;
+	height:26px;
+	line-height:26px;
+	margin-right:5px;
+	background-image:url(image/electronicsicon.png);
+}
+.span{
+	float:left;
+	display:block;height:26px;
+	line-height:26px;
+	font-size:12px;
+	color:#666;
+}
+#n{
+	background-position:0px -26px;
+		background-image:url(image/electronicsicon.png);
+}

@@ -1,0 +1,153 @@
+*{margin:0px;padding:0px;text-decoration:none;list-style:none;font-size:12px;font-family:"微软雅黑""宋体";}
+.tou{
+	width:100%;
+	height:30px;
+	background:#f1f1f1;
+	}
+.tou2{
+	width:1210px;
+	height:30px;
+	background:#f1f1f1;
+	margin:0px auto;
+	}
+.tou_ul{
+	width:97px;
+	height:30px;
+	float:left;
+	}
+.tou_ul li{
+	float:left;
+	line-height:30px;
+	font-size:14x;
+	font-family:"微软雅黑";
+	color:#6E6E6E;
+	}
+.tou_ul2{
+	width:797px;
+	height:30px;
+	float:right;
+}
+.tou_li{
+	width:130px;
+	height:30px;
+	line-height:30px;
+}
+.tou_a1{width:72px
+	height:17px;
+}
+.tou_a2{
+	width:48px;
+	height:17px;
+	color:red;
+}
+.tou_li a:hover{color:red;}
+.tou_ul2 li{float:left;}
+.shuxian{
+	width:1px;
+	height:12px;
+	overflow:hidden;
+	background:#ddd;
+	margin-top:9px;
+	
+}
+.qiyecaigou,.dingdan,.huiyuan{
+	width:68px;
+	height:30px;
+	padding:0 2px;
+	float:left;
+	line-height:30px;
+	text-align:center;
+	
+	color:#6E6E6E;
+}
+.wodejingdong,.guanzhuajingdong,.kehufuw,.wangzhan{
+	width:86px;
+	height:30px;
+	float:left;
+	left:10px;
+}
+.wdjd1,.gzjd1,.khfw1,.wzdh1{
+	line-height:30px;
+	position:relative;
+	color:#6E6E6E;
+	margin-left:10px;
+}
+.wdjd2,.gzjd2,.khfw2,.wzdh2{
+	width:9px;
+	height:7px;
+	top:-16px;
+	right:-60px;
+	overflow:hidden;
+	color:#6A6A6A;
+	position:absolute;
+	position:relative;
+	
+	
+}
+.wdjd2 s{
+	width:9px;
+	height:18px;
+	position:absolute;
+	text-decoration:none;
+	font-size:20px;
+	font-family:"微软雅黑";
+	top:-13px;
+	left:-2px;
+}
+.gzjd2 s{
+	width:9px;
+	height:18px;
+	position:absolute;
+	text-decoration:none;
+	font-size:20px;
+	font-family:"微软雅黑";
+	top:-13px;
+	left:-2px;
+}
+.khfw2 s{
+	width:9px;
+	height:18px;
+	position:absolute;
+	text-decoration:none;
+	font-size:20px;
+	font-family:"微软雅黑";
+	top:-13px;
+	left:-2px;
+}
+.wzdh2 s{
+	width:9px;
+	height:18px;
+	position:absolute;
+	text-decoration:none;
+	font-size:20px;
+	font-family:"微软雅黑";
+	top:-13px;
+	left:-2px;
+}
+.shouji{
+	width:98px;
+	height:30px;
+	float:left;	
+	position:relative;
+}
+.shoujitu{
+	width:80px;
+	height:30px;
+	line-height:30px;
+	position:relative;
+	position:absolute;
+	text-align:right;
+
+}
+.sjt{
+	position:absolute;
+	width:15px;
+	height:20px;
+	left:13px;
+	margin-top:5px;
+	background-image:url(image/jd2015img.png);
+}
+.banner{
+	width:1349px;
+	height:80px;
+}
