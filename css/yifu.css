@@ -13,7 +13,7 @@
 	font-size: 20px;
 	line-height: 36px;
 	font-weight: 400;
-	background:url(image/product_home_1.0.0.png);
+	background:url(../image/product_home_1.0.0.png);
 	background-repeat:no-repeat;
 	    position: relative;
     width: 120px;
@@ -22,6 +22,7 @@
 
 }
 .clothes_t span{
+	display:block;
     position: absolute;
     top: 0px;
     left: 0px;
@@ -122,34 +123,34 @@ height: 35px;
 
 }
 .nan1{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 		width:67px;height:26px;
 
 }
 .nan2{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 	background-position:0px -26px;
 		width:67px;height:26px;
 }
 .nan3{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 	background-position:0px -52px;
 }
 .nan4{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 	background-position:0px -78px;
 }
 .nan5{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 	background-position:0px -104px;
 }
 .nan6{
-	background-image:url(image/clothesicon.png);
+	background-image:url(../image/clothesicon.png);
 	background-repeat:no-repeat;
 	background-position:0px -130px;
 }
@@ -275,7 +276,7 @@ bottom: 145px;
 	float:left;
 	margin:10px 0;
 	padding-left:31px;
-	background-image:url(image/cosmeticsicon.png);
+	background-image:url(../image/cosmeticsicon.png);
 	background-repeat:no-repeat;
 }
 .caizhuang_lp a{
@@ -287,15 +288,15 @@ bottom: 145px;
 	color:#666;
 }
 #caizhuang_lp1{
-	background-image:url(image/cosmeticsicon.png);
+	background-image:url(../image/cosmeticsicon.png);
 	background-position:0 -26px;
 }
 #caizhuang_lp2{
-	background-image:url(image/cosmeticsicon.png);
+	background-image:url(../image/cosmeticsicon.png);
 		background-position:0 -52px;
 }
 #caizhuang_lp3{
-	background-image:url(image/cosmeticsicon.png);
+	background-image:url(../image/cosmeticsicon.png);
 		background-position:0 -78px;
 }
 .caizhuang_2p{
@@ -400,7 +401,7 @@ float: left;
 	height:26px;
 	font-size:14px;
 	display:block;
-		background-image:url(image/mobilesicon.png);
+		background-image:url(../image/mobilesicon.png);
 color:#666;
 	background-repeat:no-repeat;
 	padding-left:31px;
@@ -408,9 +409,9 @@ color:#666;
 	float:left;
 }
 #b1{
-	background-image:url(image/mobilesicon.png);background-position:0 -26px;}
+	background-image:url(../image/mobilesicon.png);background-position:0 -26px;}
 #b2{
-	background-image:url(image/mobilesicon.png);background-position:0 -52px;}
+	background-image:url(../image/mobilesicon.png);background-position:0 -52px;}
 .shouji_c{
 	width:330px;
 	height:193px;
@@ -462,7 +463,7 @@ padding-left:25px;
 	height:26px;
 	line-height:26px;
 	margin-right:5px;
-	background-image:url(image/electronicsicon.png);
+	background-image:url(../image/electronicsicon.png);
 }
 .span{
 	float:left;
@@ -473,5 +474,161 @@ padding-left:25px;
 }
 #n{
 	background-position:0px -26px;
-		background-image:url(image/electronicsicon.png);
+		background-image:url(../image/electronicsicon.png);
+}
+.f_1_c{
+	float: left;
+	display:block;
+	width:26px;
+	height:26px;
+	line-height:26px;
+	margin-right:5px;
+	background-image:url(../image/5db.png);
+}
+#f{
+	background-position:0px -26px;
+		background-image:url(../../image/5db.png);
+}
+.six_r{
+	width:210px;float:left;
+}
+.six_r1{
+	height:474px;
+	position: relative;
+}
+.six_r1 a{
+	display:block;
+	height:475px;
+}
+.six_r2{
+	height:92px;
+	background:rgba(255,255,255,.5);
+	padding-left:10px;
+	position: relative;
+	margin-top:-237px;
+}
+.six_r2 li{
+	width:98px;
+	height:26px;
+	float:left;
+	padding:10px 0;
+}
+.six_r2 li a{
+	float:left;
+	width:180px;
+	height:26px;
+}
+.icon{
+	display:block;
+	width:26px;
+	height:26px;
+	line-height:26px;
+	overflow:hidden;
+	background:url(../image/sportsicon.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	margin-left:5px;
+	float:left;
+	margin-right:5px
+}
+.six_r2 li span{
+	height:26px;
+	font-size:14px;
+	overflow:hidden;
+	float:left;
+	color:#666;
+	line-height:26px;
+}
+.c{float:left;}
+#vv2{
+		background:url(../image/sportsicon.png);
+		background-position:0  -26px;
+}
+#vv3{
+		background:url(../image/sportsicon.png);
+		background-position:0  -52px;
+}
+#vv14{
+		background:url(../image/sportsicon.png);
+		background-position:0  -75px;
+}
+.six_r3{
+	height:48px;
+	position: relative;
+	padding:21px 0 0;
+	font-size:14px;
+	background:rgba(255,255,255,0.7)
+}
+.six_r31{
+	width:180px;
+height:24px;
+padding-left:25px;
+
+}
+.six_r31 a{
+	color:#666;
+font-size:14px;
+height:26px;
+}
+.six_r31 i{
+	font-style:normal;
+}
+.six_r32{
+	height:76px;
+	position:relative;
+	background:rgba(255,255,255,0.7);
+}
+.six_r32 li{
+	height:48px;
+	padding:7px 0 0 25px;
+	float:left;
+}
+.six_r32 li a{
+	display:block;
+	margin-right:10px;
+	float:left;
+	height:24px;
+	width:50px;
+	line-height:24px;
+	color:#666;
+	white-space: nowrap;
+}
+
+.aa{
+	color:#C81623;
+}
+.six_m{
+	width:1000px;
+	height:474px;
+	position: relative;
+	overflow:hidden;
+	background:red;
+
+}
+
+.six_m1{
+	width:780px;
+	background:blue;
+	float: left;
+}
+.six_m1 li{ float:left; }
+.six_m2,.six_m3,.six_m4,.six_m5,.six_m7,.six_m8{
+	width:220px;
+	height:237px;
+
+}
+.six_m2 a,.six_m3,.six_m4 a,.six_m5 a,.six_m7 a,.six_m8{
+	width:219px;
+	height:236px;
+	display:block;
+	border-right:1px solid #EDEDED;
+	border-bottom:1px solid #EDEDED;
+}
+.six_m3,.six_m5{
+
+	padding-left:340px;
+}
+.six_m6{
+	width:220px;
+	float:left;
 }

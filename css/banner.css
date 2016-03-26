@@ -60,6 +60,7 @@
 	width:141px;
 	height:36px;
 	position:relative;
+	border:1px solid #666;
 
 
 }
@@ -154,8 +155,10 @@
 .hengxian{
 	
 	width:1210px;
-	color:#B1191A;
 	height:2px;
+	background:#B1191A;
+	margin:0 auto;
+
 
 }
 .banner_mm{
