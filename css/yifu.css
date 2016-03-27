@@ -573,12 +573,12 @@ height:26px;
 .six_r31 i{
 	font-style:normal;
 }
-.six_r32{
+.six_r32,.six_r3l{
 	height:76px;
 	position:relative;
 	background:rgba(255,255,255,0.7);
 }
-.six_r32 li{
+.six_r32 li,.six_r3l li{
 	height:48px;
 	padding:7px 0 0 25px;
 	float:left;
@@ -586,6 +586,16 @@ height:26px;
 .six_r32 li a{
 	display:block;
 	margin-right:10px;
+	float:left;
+	height:24px;
+	width:50px;
+	line-height:24px;
+	color:#666;
+	white-space: nowrap;
+}
+.six_r3l li a{
+	display:block;
+	margin-right:40px;
 	float:left;
 	height:24px;
 	width:50px;
@@ -631,4 +641,69 @@ height:26px;
 .six_m6{
 	width:220px;
 	float:left;
+}
+.icon2{
+	display:block;
+	width:26px;
+	height:26px;
+	line-height:26px;
+	overflow:hidden;
+	background:url(../image/foodsicon.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	margin-left:5px;
+	float:left;
+	margin-right:5px
+}
+#vv5{
+		background:url(../image/foodsicon.png);
+		background-position:0  -26px;
+}
+#vv6{
+		background:url(../image/foodsicon.png);
+		background-position:0  -52px;
+}
+#vv7{
+		background:url(../image/foodsicon.png);
+		background-position:0  -78px;
+}
+.icon1{
+	display:block;
+	width:26px;
+	height:26px;
+	line-height:26px;
+	overflow:hidden;
+	background:url(../image/babysicon.png);
+	background-repeat:no-repeat;
+	background-position:0px 0px;
+	margin-left:5px;
+	float:left;
+	margin-right:5px
+}
+#vv0{
+		background:url(../image/babysicon.png);
+		background-position:0  -26px;
+}
+#vv9{
+		background:url(../image/babysicon.png);
+		background-position:0  -52px;
+}
+#vv8{
+		background:url(../image/babysicon.png);
+		background-position:0  -78px;
+}
+.nie_d{
+	width:1210px;
+	height:110px;
+	background:red;
+	margin-top:10;
+}
+.nie_d1{
+	float:left;
+}
+.ten{
+	width:1210px;
+	height:577px;
+	background:blue;
+}
 }
