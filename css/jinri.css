@@ -7,7 +7,7 @@
 .jin1{
 	width:210px;
 	height:164px;
-	background-image:url(image/homebg.png);
+	background-image:url(../image/homebg.png);
 	background-position:-213px -136px;
 	background-repeat:no-repeat;
 	float:left;
@@ -47,7 +47,7 @@
 	font-weight:400;
 	width:303px;
 	height:30px;
-	background-image:url(image/homebg.png);
+	background-image:url(../image/homebg.png);
 	background-repeat:no-repeat;
 	background-position:83px -92px;
 }
@@ -55,7 +55,7 @@
 	width:61px;
 	height:18px;
 	margin-top:8px;
-	background:url(image/homebg.png);
+	background:url(../image/homebg.png);
 	padding-right: 10px;
 	float:right;
 	background-repeat:no-repeat;
@@ -82,7 +82,7 @@
 	right:-1px;
 	top:-2px;
 	overflow:hidden;
-	background-image:url(image/homebg.png);
+	background-image:url(../image/homebg.png);
 	background-position:0px -124px;
 }
 .cai_l{
@@ -98,7 +98,7 @@
 	width:166px;
 	height:16px;
 	margin:36px auto 0 auto;
-	background:url(image/56a5d4a6N3ee370d0.jpg);
+	background:url(../image/56a5d4a6N3ee370d0.jpg);
 }
 .cai_12{
 	margin-top:18px;
