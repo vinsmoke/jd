@@ -69,7 +69,7 @@
 	height:16px;
 	top:9px;
 	left:18px;
-	background-image:url(image/jd2015img.png);
+	background-image:url(../image/jd2015img.png);
 	background-position:-1px -57px;
 	background-repeat:no-repeat;
 	position:absolute;
@@ -344,7 +344,7 @@ font-family:"微软雅黑";
 	overflow:hidden;
 	left:18px;
 	top:13px;
-	background-image: url(image/banner_right.png);
+	background-image: url(../image/banner_right.png);
 }
 
 .banner_rit7{
@@ -398,11 +398,11 @@ font-family:"微软雅黑";
 				z-index:8;border:1px solid #ccc;border-radius:50%;
 		float:left;margin-left:7px;}
 .quanquan{position:absolute;
-	 left:36%; 
-	 top:310px;
+	 left:37%; 
+	 top:417px;
 	 width:208px;
 	height:16px;
 	z-index:8;}
-.quanquan1{width:16px;height:16px;
+.quanquan1{width:16px;height:16px;text-align:center;
 				z-index:8;border:1px solid #ccc;border-radius:50%;
 				background:#fff;float:left;margin-left:7px;}
