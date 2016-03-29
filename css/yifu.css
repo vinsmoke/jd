@@ -700,10 +700,11 @@ height:26px;
 .nie_d{
 	width:1210px;
 	height:110px;
-	background:red;
 	margin-top:10;
 }
 .nie_d1{
+	display:block;
+	background-image:url(../image/service_items_1.png);
 	float:left;
 }
 .ten{
@@ -1097,12 +1098,17 @@ font-family: Arial;
 	width:1210px;
 	height:168px;
 	margin:auto;
-	border-bottom:1px solid #e4e4e4;
 }
 .last_m1{
 	width:199px;
 	height:156px;
 	float:left;
+
+}
+#last_m1{
+	background-image: url(../image/20130330B_1.png);
+	background-repeat:no-repeat;
+	background-position:-6px -134px;
 }
 .last_nan{
 	font-size:20px;
@@ -1136,4 +1142,28 @@ font-family: Arial;
 	height:18px;
 	margin-top:20px;
 	text-align:center;
+}
+.ww a{
+	color:#666;
+	font-size:12px;
+	font-family:Arial;
+	margin:0 5px;
+}
+.wew{
+	height:74px;
+	margin:8px auto;
+	text-align:center;
+	
+}
+.wew a{
+	color:#666;
+}
+.zzs{
+	width:1210px;
+	height:32px;
+	text-align:center;
+}
+.zzs a{
+	width:103px;
+	height:32px;
 }

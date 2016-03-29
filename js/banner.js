@@ -1,9 +1,13 @@
+window.onload=function(){
 var ban=document.getElementsByClassName("banner_m")[0]
 	var im=document.getElementsByClassName("img_o");
+	console.log(im)
 	var quan=document.getElementsByClassName("quanquan1");
+	console.log(quan)
+	// console.log(quan.length)
 	var an2=document.getElementsByClassName("banner_l")[0];
 	var an1=document.getElementsByClassName("banner_2")[0];
-	quan[0].className="quanquan1 hot"
+	quan[0].className="quanquan1 hot";
 	var num=0;
 	var t=setInterval(move,2000);//自动轮播
 	ban.onmouseover=function(){
@@ -56,4 +60,5 @@ for(var i=0;i<im.length;i++){//按钮
 			// quan[num].style.background="red";
 		//动画的核心原理是setInterval
 
+}
 }
